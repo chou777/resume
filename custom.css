@@ -1,0 +1,90 @@
+body {
+  box-sizing: border-box;
+  min-width: 200px;
+  max-width: 980px;
+  margin: 0 auto;
+  padding: 45px;
+}
+.markdown-body {
+  font-size: 15px;
+  width: 1050px;
+}
+
+.markdown-body a {
+  color: #333 !important;
+}
+
+.markdown-body ul {
+  margin-left: -10px;
+}
+
+
+i.fa {
+  margin-right: 5px;
+}
+
+i.fa-graduation-cap {
+  margin-right: 3px;
+  margin-left: -2px;
+}
+.aside {
+  float: right;
+  width: 31%;
+}
+
+
+.main {
+  float: left;
+  width: 65%;
+}
+
+.markdown-body .header p {
+  margin-bottom: 6px;
+}
+
+.header p .fa {
+  font-size: 18px;
+  margin-right: 5px;
+}
+.header span {
+  margin-right: 15px;
+}
+
+.header {
+    position: relative;
+}
+
+.header h3{
+  margin: 0px;
+  padding: 0px;
+  margin-bottom: 10px;
+  border: none;
+}
+
+#toc_0 {
+  border: none;
+  margin-bottom: 5px;
+  padding-bottom: 0;
+}
+
+.avatar {
+  position: absolute;
+  left: 69%;
+  top: 0;
+  width: 150px;
+  height: 150px;
+  border-radius: 5px;
+  overflow: hidden;
+}
+.avatar img{
+  max-width: 100%;
+}
+
+.aside small {
+  font-size: 95%;
+  color: #999;
+}
+
+.fa-map-marker {
+  margin-left: 2px;
+}
