@@ -88,3 +88,13 @@ i.fa-graduation-cap {
 .fa-map-marker {
   margin-left: 2px;
 }
+
+.toc_content {
+  padding-left: 10px;
+}
+.ex-hr {
+  margin: 8px 0 !important;
+  height: 0px !important;
+  background: none !important;
+  border-bottom:  1px dashed #aaa !important;
+}

@@ -2,39 +2,38 @@
 
 # 周子尧
 
-### Web Front-End Developer / Shanghai,CN
+### Front-End Developer / Shanghai,CN
 
 
 ## 专业技能
 
 *   HTML - Ejs / Volt
-*   Javascript (ES5,ES6,ES7)
+*   Javascript (ES5,ES6,ES7) / TypeScript
 *   BEM / ESLint 代码风格规范
 *   CSS (Sass, Less, PostCSS)
-*   Responsive Web Design
 *   Webpack / Npm / Yarn
-*   ReactJS / AngularJS / Jquery
+*   ReactJS / VueJs / AngularJS
 *   Sketch / Photoshop
 *   NodeJS / Express / Koa2
 *   PHP / Phalcon / Codeigniter
-*   MySQL / Redis
+*   MySQL / Druid / Hive / Redis...
 *   Scrum / Git
 
 ## 学历
 
-**中华科技大学-计算机软件工程学系**  <small>**2006/09 ~ 2010/06**</small>  
+**中华科技大学-计算机软件工程学系**  <small>**2006/09 ~ 2010/06**</small>
 <small>Taipei,TW</small>
 
 ## 工作经历
 
-**房多多网络科技**  
-<small>Web Front-End资深工程师</small>  
-<small>2016/05/04~至今</small>  
+**房多多网络科技**
+<small>Front-End资深工程师</small>
+<small>2016/05/04~至今</small>
 <small>Shanghai,CN</small>
 
-**恩克斯股份有限公司-奖金猎人**  
-<small>Web资深全栈工程师</small>  
-<small>2011/09/15 ~ 2016/03/31</small>  
+**恩克斯股份有限公司-奖金猎人**
+<small>Web资深全栈工程师</small>
+<small>2011/09/15 ~ 2016/03/31</small>
 <small>Taipei,TW / Mountain View, CA / USA</small>
 
 </aside>
@@ -62,7 +61,7 @@
 *   项目：奖金猎人比赛平台，全栈开发自动化比赛平台，票选平台。
 *   前端：AngularJS/SASS/RWD - 後端：PHP/Mysql/Phalcon
 
-> 使用AngularJS开发的多语系自动化比赛平台，只要透过平台就能生成一个自动化的比赛网站。  
+> 使用AngularJS开发的多语系自动化比赛平台，只要透过平台就能生成一个自动化的比赛网站。
 > 获得美国知名孵化器500 startup青睐，并与团队共四人前往美国矽谷育成五个月，自动化比赛平台至2016/1使用者达到50万人，共建立了25000个自动化比赛，票选达250万人次，总比赛奖金高达4000万美金。
 
 **Web Developer (Full-Stack)** - 奖金猎人 - 2016/01~2016/03
